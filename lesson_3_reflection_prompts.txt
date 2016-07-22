@@ -9,3 +9,7 @@ There will be times when you need not be updated until certain changes are made 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Clone, copy local computer projects. Fork projects on the server copy GitHub. Branch creates copy of the draft to edit separately and keep it as a historical part of the project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+For updates that have made other collaborators
